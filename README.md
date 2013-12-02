@@ -1,6 +1,6 @@
 # pyqaws
 
-Simple application to manage multiple AWS accounts (currently read-only). Currently only Read-Only mode is allowed and but once I find some time this will change.
+Simple application to manage multiple AWS accounts. Currently only Read-Only mode is allowed and but once I find some time this will change.
 
 ## Configuration
 
