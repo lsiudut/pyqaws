@@ -20,4 +20,4 @@ region = eu-west-1
 
 ## Contact
 
-If you want me to add some feature don't hesitate to mail me: **lukasz@siudut.pl** . Or you can just commit your code and request pull :).
+If you want me to add some feature don't hesitate to mail me: **lukasz@siudut.pl** . Or you can just commit your code and request a pull :).
